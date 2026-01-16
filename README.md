@@ -58,7 +58,7 @@ NayeliApi/
 
 ```bash
 git clone <https://github.com/naye-19/Prueba_Tecnica_ProgramadorJr.git>
-cd Prueba_Tecnica_ProgramadorJr/NayeliApi
+cd Prueba_Tecnica_ProgramadorJr\NayeliApi
 ```
 
 ### 2. Restaurar paquetes NuGet
