@@ -1,0 +1,6 @@
+@NayeliApi.Api_HostAddress = http://localhost:5139
+
+GET {{NayeliApi.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
