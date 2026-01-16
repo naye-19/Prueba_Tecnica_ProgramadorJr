@@ -82,13 +82,14 @@ dotnet run --project NayeliApi.Api
 
 La API estará disponible en:
 - HTTPS: `https://localhost:7164`
-- HTTP: `http://localhost:5139`
+- HTTP: `http://localhost:5139` (Consola)
 
 ### 5. Acceder a Swagger
 
 Abrir en el navegador:
 ```
 https://localhost:7164/swagger
+http://localhost:5139/swagger (Consola)
 ```
 
 ## Endpoints de la API
