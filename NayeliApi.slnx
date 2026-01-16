@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="NayeliApi.Api/NayeliApi.Api.csproj" />
+  <Project Path="NayeliApi.Core/NayeliApi.Core.csproj" />
+  <Project Path="NayeliApi.Infrastructure/NayeliApi.Infrastructure.csproj" />
+  <Project Path="NayeliApi.Tests/NayeliApi.Tests.csproj" />
+</Solution>
