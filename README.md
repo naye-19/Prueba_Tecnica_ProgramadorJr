@@ -283,6 +283,7 @@ NayeliApi.Core/
 
 NayeliApi.Infrastructure/
 ├── Data/               # DbContext
+├── Migrations/         # Migraciones de base de datos.
 └── Repositories/       # Implementación de repositorios
 
 NayeliApi.Api/
