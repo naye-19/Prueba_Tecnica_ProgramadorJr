@@ -57,8 +57,8 @@ NayeliApi/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <https://github.com/naye-19/Prueba_Tecnica_ProgramadorJr.git>
-cd Prueba_Tecnica_ProgramadorJr\NayeliApi
+- git clone <https://github.com/naye-19/Prueba_Tecnica_ProgramadorJr.git>
+- cd Prueba_Tecnica_ProgramadorJr
 ```
 
 ### 2. Restaurar paquetes NuGet
@@ -70,8 +70,8 @@ dotnet restore
 ### 3. Crear y aplicar migraciones de base de datos
 
 ```bash
-dotnet ef migrations add InitialCreate --project NayeliApi.Infrastructure --startup-project NayeliApi.Api
-dotnet ef database update --project NayeliApi.Infrastructure --startup-project NayeliApi.Api
+- dotnet ef migrations add InitialCreate --project NayeliApi.Infrastructure --startup-project NayeliApi.Api
+- dotnet ef database update --project NayeliApi.Infrastructure --startup-project NayeliApi.Api
 ```
 
 ### 4. Ejecutar la API
